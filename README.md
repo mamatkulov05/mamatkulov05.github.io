@@ -1,2 +1,3 @@
-# mamatkulov05.github.io
-мой первый опубликованый сайт
+#joha        
+мой первый сайт
+[кликни сюда](mamatkulov05.github.io/github/)
